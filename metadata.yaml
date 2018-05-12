@@ -1,0 +1,27 @@
+_repo: Handbook-of-FreethoughtChristianity_45414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45414-h/images/new-cover.jpg
+creator:
+  editor:
+    agent_name: Bell, W. S. (William S.)
+    birthdate: 1832
+    gutenberg_agent_id: '43271'
+    url: http://www.gutenberg.org/2009/agents/43271
+description: ''
+gutenberg_issued: '2014-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+- !lcsh 'Christianity -- Controversial literature'
+title: "A Handbook of Freethought\r\nContaining in Condensed and Systematized Form\
+  \ a Vast Amount of Evidence Against the Superstitious Doctrines of Christianity"
+url: http://www.gutenberg.org/ebooks/45414
